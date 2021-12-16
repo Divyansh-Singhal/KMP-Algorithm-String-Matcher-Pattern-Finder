@@ -18,8 +18,8 @@ For Running the following code the hardware and software requirements are mentio
 
 To Use the page follow the below mentioned steps:
 
-     1. Enter The Pattern in which you have to find the Text.
-     2. Enter the text which you want to find.
+     1. Enter The Text in which you have to find the Pattern.
+     2. Enter the Pext which you want to find.
      3. Click on solve button.
      4. Result will be displayed just below the Solve button in the format: "Pattern found at index "
      5. The Text should be in string format. (screenshot attached below)
