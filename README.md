@@ -22,5 +22,6 @@ To Use the page follow the below mentioned steps:
      2. Enter the text which you want to find.
      3. Click on solve button.
      4. Result will be displayed just below the Solve button in the format: "Pattern found at index "
+     5. The Text should be in string format. (screenshot attached below)
      
      
