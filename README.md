@@ -19,10 +19,12 @@ For Running the following code the hardware and software requirements are mentio
 To Use the page follow the below mentioned steps:
 
      1. Enter The Text in which you have to find the Pattern.
-     2. Enter the Pext which you want to find.
+     2. Enter the Pattern which you want to find.
      3. Click on solve button.
      4. Result will be displayed just below the Solve button in the format: "Pattern found at index "
      5. The Text should be in string format. (screenshot attached below)
+
+                                       The below Image also shows the working of the web-page.
      
      
 <div align="center"><img src="https://user-images.githubusercontent.com/80686225/146414706-ee7a9d8a-9a7f-4979-b223-21338a8a0e90.png"></div>
