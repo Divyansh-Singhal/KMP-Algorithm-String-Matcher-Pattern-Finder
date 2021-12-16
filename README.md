@@ -4,6 +4,18 @@
 
 This is a project made by students for a Group Activity of University VIT Bhopal.
 
+For Running the following code the hardware and software requirements are mentioned below:
+
+     Hardware:  1. Minimum of 1GB RAM.
+                2. Minimum of 4GB free space in hard disk.
+                3. 1.6Ghz or faster processor.
+               
+                
+     Software:  1. VS-CODE (Visual Studio Code) or any other code editor which can cupport HTML and Javascript.
+                2. Web-Browser to see the deployed link.
+                3. Windows 7 and above.
+                
+
 To Use the page follow the below mentioned steps:
 
      1. Enter The Pattern in which you have to find the Text.
